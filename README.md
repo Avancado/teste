@@ -1,14 +1,17 @@
-<p align="center">The monorepo of a clone of tinder mobile and web app, built in a Omnistack Week</p>
+<p align="center"> Escreva aqui </p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
+  
+  imagem / gif aqui !
+<!--   <a href="https://opensource.org/licenses/MIT"> -->
+<!--     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> -->
+<!--   </a> -->
 </p>
 
 <div>
-  <img src="https://i.ibb.co/GJfb2X4/web.gif" alt="demo-web" height="425">
-  <img src="https://i.ibb.co/zHbFDyd/mobile.gif" alt="demo-mobile" height="425">
+<!--   <img src="https://i.ibb.co/GJfb2X4/web.gif" alt="demo-web" height="425"> -->
+<!--   <img src="https://i.ibb.co/zHbFDyd/mobile.gif" alt="demo-mobile" height="425"> -->
+  <p> imagem/video aqui </p>
 </div>
 
 <hr />
